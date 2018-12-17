@@ -7,6 +7,7 @@ class Dog
   end 
   def self.all
     self.all.each do |dog|
-      dog.name 
+      dog.name
+    end 
   end 
 end 
